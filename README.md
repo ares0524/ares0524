@@ -13,18 +13,6 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://www.flaticon.com/free-icon/cryptography_1163468?term=cryptography&related_id=1163468" height="45" >
-      <br>Cryptography
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.flaticon.com/free-icon/hierarchical_6911893?term=data+structures&page=1&position=1&origin=search&related_id=6911893" height="45" >
-      <br>Data structures
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.flaticon.com/free-icon/smart-contracts_6229103?term=smart+contracts&page=1&position=7&origin=search&related_id=6229103" height="45" >
-      <br>Smart contracts
-    </td>
-    <td align="center" width="90">
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
       <br>NFT
     </td>
@@ -52,8 +40,6 @@
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
@@ -62,6 +48,8 @@
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
       <br>Vue
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
       <br>Nuxt.js
@@ -94,12 +82,12 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="icon" width="55" height="55" />
       <br>Java
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
       <br>WordPress
